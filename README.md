@@ -10,20 +10,20 @@ The project is structured into sequential modules, guiding you from basic syntax
 
 ## 📂 Repository Structure
 
-### 基础模块 (Core Modules)
+### (Core Modules)
 - **[1-Python Bascis](file:///e:/ML/1-Python%20Bascis/)**: Variables, Operators, Datatypes, and basic syntax rules.
 - **[2-ControlFlow](file:///e:/ML/2-ControlFlow/)**: Condition statements (`if-else`), loops (`for`, `while`), and logical control.
 - **[3-DataStructure](file:///e:/ML/3-DataStructure/)**: Lists, Tuples, Sets, and Dictionaries operations.
 - **[4-Function](file:///e:/ML/4-Function/)**: Lambda functions, `map`, `filter`, and functional programming examples.
 - **[5-Modules](file:///e:/ML/5-Modules/)**: Importing internal packages and exploring the standard library.
 
-### 进阶模块 (Advanced Modules)
+### (Advanced Modules)
 - **[6-Fileoperation](file:///e:/ML/6-Fileoperation/)**: Binary/Text file handling and OS-level path management.
 - **[7-Exception](file:///e:/ML/7-Exception/)**: Robust error handling using `try-except-finally` blocks.
 - **[8-OOPS](file:///e:/ML/8-OOPS/)**: Object-Oriented Programming, including Inheritance and Polymorphism.
 - **[9-Iterators](file:///e:/ML/9-Iterators/)**: Iterators, Generators, for memory-efficient data processing, and Decorators for metadata manipulation.
 
-### 数据处理与分析 (Data Analysis & SQL)
+### (Data Analysis & SQL)
 - **[10-Data Analysis](file:///e:/ML/10-Data%20Analysis/)**: 
     - **NumPy**: High-performance array computing.
     - **Pandas**: Data manipulation and DataFrame analysis.
