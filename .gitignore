@@ -1,0 +1,8 @@
+venv/
+virtual_env/
+myenv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.sqlite3

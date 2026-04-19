@@ -1,0 +1,9 @@
+ipykernel
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+html5lib
+beautifulsoup4
