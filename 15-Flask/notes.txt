@@ -1,0 +1,26 @@
+Flask 
+
+it is a web framwork which is created with the help of python 
+
+WSGI-Web Server Gateway Interface
+
+request-response
+
+API-Application programming interface 
+
+REST-Representational state transfer
+
+
+send any file 
+-> pdf
+-> images
+-> text
+
+-> json
+-> xml
+-> yaml
+
+jinja2-template rendering engine for python 
+
+-> Template- A template is a file that contains HTML-code and some 
+special syntax that allows you to insert dynamic data into the HTML code.
